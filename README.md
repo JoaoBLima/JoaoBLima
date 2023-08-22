@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**GabrielBReis/GabrielBReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JoaoBLima/JoaoBLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Gabriel B. 
+# João Borges
 
 <h3> Informações: </h3>
 
